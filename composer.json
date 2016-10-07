@@ -27,7 +27,7 @@
     },
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/paystand/paystand-magento"
         }
     ]
