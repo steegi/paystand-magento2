@@ -63,7 +63,8 @@ define([
         },
         "meta": {
           "source": "magento 2",
-          "quote": quoteId
+          "quote": quoteId,
+          "quoteDetails" : quote.totals()
         }
       }, null, 520);
       // stop observing for mutation events
